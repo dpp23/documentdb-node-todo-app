@@ -1,1 +1,2 @@
+pwd &&
 node bin/www
